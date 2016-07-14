@@ -12,6 +12,7 @@ O que é que faz?
 
 ![](/exemplos/GM_Scripting.png)
 
+
 Instruções de Instalação:
  
  1. [Link](https://notepad-plus-plus.org/download/), para a última versão do notepad++;
