@@ -16,6 +16,6 @@ O que é que faz?
 Instruções de Instalação:
  
  1. [Link](https://notepad-plus-plus.org/download/), para a última versão do notepad++;
- 2. Façam o Download do repositório  [Link](https://github.com/CanvasBag/GM-Scripting/archive/master.zip) e copiem o ficheiro /Notepad++ Highlight & AutoComplete/**GM.xml** para a pasta: C:\Program Files (x86)\Notepad++\plugins\APIs;
+ 2. Façam o Download do repositório  [Link](https://github.com/CanvasBag/GM-Scripting/archive/master.zip) e copiem o ficheiro */Notepad++ Highlight & AutoComplete/**GM.xml*** para a pasta: C:\Program Files (x86)\Notepad++\plugins\APIs;
  3. Abrir o Notepad++ e em *Language->Define your language...->Import* seleccionar o ficheiro GM.xml;
  4. Por fim, em *Settings->Preferences...->Auto-Completion* ligar a caixa “Enable auto-completion on each input”.
