@@ -5,7 +5,7 @@ Scripts &amp; Utilities for GlobalMapper
 
 Para quem usa o Global Mapper e queira explorar o potencial de scripts para automatizar os processos, este XML possibilita o Notepad++ aplicar a *Syntax Highlighting & AutoCompletion* dos **comandos**, **parâmetros** e **atributos** usados pela linguagem de Scripting do Global Mapper.
 
-O que é que faz?
+**1.1 - O que é que faz?**
  
 - Irá colorir as palavras que fazem parte da linguagem de script do GM de forma a serem mais perceptíveis;</li>
 - Irá fornecer sugestões para completar palavras sem terem que as escrever completamente.</li>
@@ -13,7 +13,7 @@ O que é que faz?
 ![](/exemplos/GM_Scripting.png)
 
 
-Instruções de Instalação:
+**1.2 - Instruções de Instalação:**
  
  1. [Link](https://notepad-plus-plus.org/download/), para a última versão do notepad++;
  2. Façam o Download do [repositório](https://github.com/CanvasBag/GM-Scripting/archive/master.zip) e copiem o ficheiro /Notepad++ Highlight & AutoComplete/**GM.xml** para a pasta: C:\Program Files (x86)\Notepad++\plugins\APIs;
