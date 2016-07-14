@@ -11,7 +11,7 @@ O que é que faz?
 - Irá fornecer sugestões para completar palavras sem terem que as escrever completamente.</li>
 
 
-[](/exemplos/GM_Scripting.png)
+[](./exemplos/GM_Scripting.png)
 
 <br />Instruções de Instalação:<br />
  <ol>
