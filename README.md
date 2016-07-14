@@ -11,7 +11,7 @@ Scripts &amp; Utilities for GlobalMapper
 
 <br />Instruções de Instalação:<br />
  <ol>
-  <li><a href="https://notepad-plus-plus.org/download/" target="_blank">Link</a>, para a última versão do notepad++;</li>
+  <li><a href="https://notepad-plus-plus.org/download/" target="_top">Link</a>, para a última versão do notepad++;</li>
   <li>Façam o Download do ficheiro GM.xml aqui do repositório e movam-no para a pasta: C:\Program Files (x86)\Notepad++\plugins\APIs;</li>
   <li>Abrir o Notepad++ e em <i>Language->Define your language...->Import</i> seleccionar o ficheiro GM.xml;</li>
   <li>Por fim, em <i>Settings->Preferences...->Auto-Completion</i> ligar a caixa “Enable auto-completion on each input”.</li>
