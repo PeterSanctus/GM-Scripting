@@ -9,6 +9,8 @@ Scripts &amp; Utilities for GlobalMapper
   <li>Irá fornecer sugestões para completar palavras sem terem que as escrever completamente.</li>
 </ul> 
 
+<img src="./exemplos/GM_Scripting.png" alt="Exemplo1" style="width:470px;height:125px;">
+
 <br />Instruções de Instalação:<br />
  <ol>
   <li><a href="https://notepad-plus-plus.org/download/" target="_blank">Link</a>, para a última versão do notepad++;</li>
