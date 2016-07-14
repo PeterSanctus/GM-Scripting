@@ -9,10 +9,10 @@ Scripts &amp; Utilities to GlobalMapper\p
   <li>Irá fornecer sugestões para completar palavras sem terem que as escrever completamente.</li>
 </ul> 
 
-<br /><br />Instruções de Instalação:<br />
+<br />Instruções de Instalação:<br />
  <ol>
-  <li>Caso não o tenham, fazer o download através deste <a href="https://notepad-plus-plus.org/download/">link</a>, e instalar o Notepad++.</li>
-  <li>Façam o Download do ficheiro GM.xml e movam-no para a pasta: C:\Program Files (x86)\Notepad++\plugins\APIs</li>
+  <li><a href="https://notepad-plus-plus.org/download/">Link</a>, para a última versão do notepad++</li>
+  <li>Façam o Download do ficheiro GM.xml aqui do repositório e movam-no para a pasta: C:\Program Files (x86)\Notepad++\plugins\APIs</li>
   <li>Abrir o Notepad++ e em <i>Language->Define your language...->Import</i> seleccionar o ficheiro GM.xml</li>
   <li>Por fim, em <i>Settings->Preferences...->Auto-Completion</i> ligar a caixa “Enable auto-completion on each input”</li>
 </ol> 
