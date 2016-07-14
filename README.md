@@ -10,7 +10,7 @@ O que é que faz?
 - Irá colorir as palavras que fazem parte da linguagem de script do GM de forma a serem mais perceptíveis;</li>
 - Irá fornecer sugestões para completar palavras sem terem que as escrever completamente.</li>
 
-![alt text](/exemplos/GM_Scripting.png)
+![](/exemplos/GM_Scripting.png)
 
 <br />Instruções de Instalação:<br />
  <ol>
