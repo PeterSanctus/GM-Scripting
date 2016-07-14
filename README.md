@@ -9,7 +9,7 @@ Scripts &amp; Utilities for GlobalMapper
   <li>Irá fornecer sugestões para completar palavras sem terem que as escrever completamente.</li>
 </ul> 
 
-<img src="./exemplos/GM_Scripting.png" alt="Exemplo1" style="width:470px;height:125px;">
+<img src="./exemplos/GM_Scripting.png" alt="Exemplo1" style="width:460px;height:225px;">
 
 <br />Instruções de Instalação:<br />
  <ol>
