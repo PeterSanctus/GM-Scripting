@@ -1,0 +1,3 @@
+GLOBAL_MAPPER_SCRIPT VERSION="1.00"
+
+IMPORT FILENAME="{}\GM_Scripting\grid_arcinfo\UTM_36s\E412_N7356.asc"
