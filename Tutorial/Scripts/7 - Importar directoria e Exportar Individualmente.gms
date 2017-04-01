@@ -2,9 +2,13 @@ GLOBAL_MAPPER_SCRIPT VERSION="1.00"
 
 DIR_LOOP_START DIRECTORY=H:\Apresentacao\GM_Scripting\dgn FILENAME_MASKS="*dgn"
 
-IMPORT FILENAME="%FNAME_W_DIR%" PROJ="H:\Apresentacao\GM_Scripting\prj\WGS84_UTM_36S.prj" 
+IMPORT \
+	FILENAME="%FNAME_W_DIR%" \
+	PROJ="H:\Apresentacao\GM_Scripting\prj\WGS84_UTM_36S.prj" 
 
-EXPORT_VECTOR FILENAME="H:\Apresentacao\GM_Scripting\kml\%FNAME_WO_EXT%.KML" TYPE=KML
+EXPORT_VECTOR \
+	FILENAME="H:\Apresentacao\GM_Scripting\kml\%FNAME_WO_EXT%.KML" \
+	TYPE=KML
 
 UNLOAD_ALL
 
